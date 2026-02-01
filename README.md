@@ -1,8 +1,8 @@
-# Hi, I'm Vishak S.P 👋
+# Hi, I'm Vishak 👋
 
 🎯 **Aspiring Security Operations Analyst | B.Sc Computer Science Graduate**  
 
-🎓 Cisco & TryHackMe Certified | SOC Operations & Incident Response  
+🎓 Cisco & TryHackMe Certified | SOC Operations & Incident Response 
 
 I am an entry-level Cyber Security professional with structured, hands-on training in **Security Operations Centre (SOC) processes**, including **alert monitoring, incident triage, investigation, and escalation**. My focus is on supporting secure operations through accurate analysis, clear documentation, and continuous improvement — aligned with UK SOC standards and best practices.
 
