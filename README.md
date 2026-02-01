@@ -57,15 +57,4 @@ I am an entry-level Cyber Security professional with structured, hands-on traini
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Science**  
-KG College of Arts and Science (2022 – 2025)
-
----
-## 📫 Contact
-- 📧 Email: vishaksp32@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/vishak-s-p-15438931b/
-
----
-
-⭐ *Seeking entry-level SOC / Security Operations Analyst roles in the UK*  
+⭐ *Seeking entry-level SOC / Security Operations Analyst roles 
